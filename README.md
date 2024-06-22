@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @unknownsoup
 - 👀 I’m interested in learning more about data science, analytics, and machine learning. 
-- 🌱 I’m currently teaching myself through online courses. 
+- 🌱 I’m currently a student and also teach myself supplementary material independently. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: discordapp.com/users/.braebrae
-- ⚡ Fun fact: I suck at coding. Do want to get better though. 
+- ⚡ Fun fact: I suck at coding. Please give me advice. 
