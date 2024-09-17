@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @unknownsoup
 - Student @ Mississippi State University studying Data Science
-- Looking to learn more about the DS process and applications of machine learning. 
+- Interested in ML and Data Analytics applications in market forecasting
 
-- How to reach me: discordapp.com/users/.braebrae
+
+- Reach out: discordapp.com/users/.braebrae
